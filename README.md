@@ -27,4 +27,4 @@ There are multiple report views. -
 ▶ Stakeholders Mapping
 ▶ Going through P & L Statements etc. 
 
-Dashboard Link: https://shorturl.at/huH8p
+Dashboard Link: [https://shorturl.at/huH8p]
