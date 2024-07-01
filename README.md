@@ -4,12 +4,13 @@ These hurdles were potentially impeding their ability to make informed business 
 Task -Develop an interactive report providing invaluable insights across finance, sales, marketing, supply chain, and executive teams, using the provided mock-up dashboards as a reference.
 
 📋 Project Execution -The project execution had multiple steps:
-🔸 Connecting MySQL database with Power BI
-🔸 Data validation and Data Transformation
-🔸 Creating calculated columns
-🔸 Data Modelling
-🔸 Building and Designing the Dashboards
-🔸 Data Validation & Stakeholder Feedback Implementation.
+
+-🔸 Connecting MySQL database with Power BI
+-🔸 Data validation and Data Transformation
+-🔸 Creating calculated columns
+-🔸 Data Modelling
+-🔸 Building and Designing the Dashboards
+-🔸 Data Validation & Stakeholder Feedback Implementation.
 📊 Building the Dashboard -Multiple stakeholders wanted to see different reports to analyze the performance of various departments. 
 There are multiple report views. -
 𝑭𝒊𝒏𝒂𝒏𝒄𝒆 𝑽𝒊𝒆𝒘: I engineered a dynamic P&L table structure using DAX queries that enabled the creation of slicers for flexible data filtering.
