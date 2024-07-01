@@ -34,12 +34,20 @@ There are multiple report views. -
 
 Tools Used -
 ➡ MS Excel
+
 ➡ MySQL
+
 ➡ Power BI
+
 ➡ DAX Studio Learnings from Project
+
 ▶ Power BI
+
 ▶ Use of DAX Formulas
+
 ▶ Stakeholders Mapping
+
 ▶ Going through P & L Statements etc. 
+
 
 Dashboard Link: [https://shorturl.at/huH8p]
